@@ -3,3 +3,8 @@ http://grdts.jrtf21.com:2082/live/dondream_312833/68U5Dja4/108.ts
 
 #EXTINF:-1 tvg-id="8cc2fe6e989fb60abcca14f938ec57fb" tvg-name="ASSP 3 FHD" tvg-logo="http://mantul.biz.id:8888/images/aab1ca03fa9a319976fdefabe4caaac8.png" group-title="SPORT",ASSP 3 FHD
 http://mantul.biz.id:8888/live/aruba/aruba/4800.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i2.wp.com/mediansport.com/wp-content/uploads/2021/08/logo-bri-liga-1-2021-resmi.jpg?resize=486%2C281&ssl=1" group-title="BRI LIGA 1 LIVE",PERSIK VS AREMA FC
+https://etslive-2-vidio-com.akamaized.net/exp=1637424063~acl=/vp9/870_stream.mpd
